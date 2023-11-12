@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Capstone-master/src/main/java"/>
+	<classpathentry kind="src" path="Capstone-master/src/test/java"/>
+	<classpathentry kind="lib" path="Capstone-master/target/app.jar"/>
+	<classpathentry kind="lib" path="Capstone-master/target/Milestone-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="Capstone-master/target/classes"/>
+</classpath>
